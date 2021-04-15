@@ -1,0 +1,12 @@
+Hey there this is a simple tic-tac-toe game meant to be played on all Linux distributions
+It may show some errors on other operating systems
+
+Positions:
+
+ 1|2|3
+-- - --
+ 4|5|6
+-- - --
+ 7|8|9
+
+For any other queries you can contact me through the main menu....
