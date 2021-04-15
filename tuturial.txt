@@ -10,3 +10,6 @@ Positions:
  7|8|9
 
 For any other queries you can contact me through the main menu....
+EXECUTING:
+pip install -r requirements.txt
+python3 tictactoe.py
