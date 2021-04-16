@@ -60,11 +60,11 @@ def calculate(board):
         return True
 user_choice='y'
 while(user_choice=='y' or user_choice=='Y'):
+ num_input=0
  main_board = {'1': ' ', '2': ' ', '3': ' ', '4': ' ', '5': ' ', '6': ' ','7': ' ', '8': ' ', '9': ' '}
  while(calculate(main_board)):
      printboard(main_board)
      userInput(main_board)
-     print(num_input)
      if num_input==9:
          print("..........Game Over..........")
          print("The Match is a draw")
